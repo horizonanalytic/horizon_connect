@@ -27,5 +27,5 @@ Horizon Connect is a secure messaging app that puts privacy and intentional conn
 ## Contact
 
 - Support: support@horizonanalytic.com
-- Security: security@horizonanalytic.com
+- Security: support@horizonanalytic.com
 - Privacy: privacy@horizonanalytic.com

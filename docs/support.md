@@ -68,6 +68,6 @@ We typically respond within 48 hours.
 
 If you discover a security vulnerability, please report it responsibly:
 
-**Email**: security@horizonanalytic.com
+**Email**: support@horizonanalytic.com
 
 We take security issues seriously and will respond promptly.
